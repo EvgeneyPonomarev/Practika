@@ -1,0 +1,16 @@
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\bin\Debug\Билет 4.exe.config
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\bin\Debug\Билет 4.exe
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\bin\Debug\Билет 4.pdb
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\obj\Debug\Билет 4.csproj.AssemblyReference.cache
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\obj\Debug\Билет 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\obj\Debug\Билет 4.csproj.CoreCompileInputs.cache
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\obj\Debug\Билет 4.exe
+C:\Users\nb msi\Desktop\Практика\Билет 4\Билет 4\obj\Debug\Билет 4.pdb
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\bin\Debug\Билет 4.exe.config
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\bin\Debug\Билет 4.exe
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\bin\Debug\Билет 4.pdb
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\obj\Debug\Билет 4.csproj.AssemblyReference.cache
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\obj\Debug\Билет 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\obj\Debug\Билет 4.csproj.CoreCompileInputs.cache
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\obj\Debug\Билет 4.exe
+C:\Users\nb msi\Desktop\Практика\Билет 4-5\Билет 4\obj\Debug\Билет 4.pdb

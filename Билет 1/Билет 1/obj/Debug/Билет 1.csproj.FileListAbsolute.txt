@@ -1,0 +1,8 @@
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\bin\Debug\Билет 1.exe.config
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\bin\Debug\Билет 1.exe
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\bin\Debug\Билет 1.pdb
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\obj\Debug\Билет 1.csproj.AssemblyReference.cache
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\obj\Debug\Билет 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\obj\Debug\Билет 1.csproj.CoreCompileInputs.cache
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\obj\Debug\Билет 1.exe
+C:\Users\nb msi\source\repos\Билет 1\Билет 1\obj\Debug\Билет 1.pdb

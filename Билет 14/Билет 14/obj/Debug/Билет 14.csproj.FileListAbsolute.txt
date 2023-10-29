@@ -1,0 +1,8 @@
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\bin\Debug\Билет 14.exe.config
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\bin\Debug\Билет 14.exe
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\bin\Debug\Билет 14.pdb
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\obj\Debug\Билет 14.csproj.AssemblyReference.cache
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\obj\Debug\Билет 14.csproj.SuggestedBindingRedirects.cache
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\obj\Debug\Билет 14.csproj.CoreCompileInputs.cache
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\obj\Debug\Билет 14.exe
+C:\Users\nb msi\Desktop\Практика\Билет 14\Билет 14\obj\Debug\Билет 14.pdb
